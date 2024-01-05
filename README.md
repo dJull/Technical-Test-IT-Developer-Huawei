@@ -40,6 +40,8 @@ List any software or tools that need to be installed before setting up the proje
 # Clone the repository
 git clone https://github.com/dJull/Technical-Test-IT-Developer-Huawe.git
 
+# Change the .env.example file to .env
+
 # Navigate to the project directory
 cd your-project
 
